@@ -10,7 +10,7 @@ redirect_from:
 Bachelor of Logistics Management, Southeast University.  
 Master of Science and Engineering in Management, Yunnan University.  
 My research interest includes **Operations and Marketing Interface, Consumer Behavior, Innovative Platforms**.  
-You can find my CV here: [Zhuohang Cui's Curriculum Vitae](../assets/Zhuohang Cui_Vitae.pdf).[Email](zhuohangcui@163.com) / [Github](https://github.com/zhuohangcui) / [Wechat](../images/wechat.jpg).
+You can find my CV here: [Zhuohang Cui's Curriculum Vitae](../assets/ZhuohangCui_Vitae.pdf).[Email](zhuohangcui@163.com) / [Github](https://github.com/zhuohangcui) / [Wechat](../images/wechat.jpg).
 
 Scientific research
 ======
