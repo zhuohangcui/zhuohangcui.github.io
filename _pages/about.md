@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Bachelor of Logistics Management, Southeast University.<br>Master of Science and Engineering in Management, Yunnan University.<br>My research interest includes **Operations and Marketing Interface, Consumer Behavior, Innovative Platforms**.<br>You can find my CV here: [Zhuohang Cui's Curriculum Vitae](../assets/ZhuohangCui_CurriculumVitae.pdf). [Email](zhuohangcui@163.com) / [Github](https://github.com/zhuohangcui) / [Wechat](../images/wechat.jpg).
+Bachelor of Logistics Management, Southeast University.<br>Master of Science and Engineering in Management, Yunnan University.<br>My research interest includes **Operations and Marketing Interface, Consumer Behavior, Innovative Platforms**.<br>You can find my CV here: [Zhuohang Cui's Curriculum Vitae](../assets/ZhuohangCui_CurriculumVitae.pdf). [Email](mailto:zhuohangcui@163.com) / [Github](https://github.com/zhuohangcui) / [Wechat](../images/wechat.jpg).
 
 # Scientific research
 ## 1.Channel and Business Model Selection in Opaque Selling  
@@ -19,4 +19,4 @@ Bachelor of Logistics Management, Southeast University.<br>Master of Science and
 
 
 # For more info
-More info about my academic projects can be found in My CV [Zhuohang Cui's Curriculum Vitae](../assets/ZhuohangCui_CurriculumVitae.pdf) and if you have any other questions, please feel free to contact me. [Email](zhuohangcui@163.com).
+More info about my academic projects can be found in My CV [Zhuohang Cui's Curriculum Vitae](../assets/ZhuohangCui_CurriculumVitae.pdf) and if you have any other questions, please feel free to contact me. [Email](mailto:zhuohangcui@163.com).
