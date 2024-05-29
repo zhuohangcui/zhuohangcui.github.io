@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Zhuohang Cui / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "identification_photo.png"
-  name             : "Zhuohang Cui"
+  name             : "Zhuohang Cui(崔卓航)"
   pronouns         : # example: "she/her"  
   bio              : "So the spirit, increasing it not beneficial."
-  location         : "Earth"
+  location         : "China"
   employer         : "Southeast University"
   uri              : # URL
   email            : "zhuohangcui@163.com" 
