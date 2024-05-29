@@ -19,4 +19,4 @@ Bachelor of Logistics Management, Southeast University.<br>Master of Science and
 
 
 # For more info
-More info about my academic projects can be found in My CV [Zhuohang Cui's Curriculum Vitae](../assets/ZhuohangCui_CurriculumVitae.pdf) and if you have any other questions, please feel free to contact me.[Email](zhuohangcui@163.com).
+More info about my academic projects can be found in My CV [Zhuohang Cui's Curriculum Vitae](../assets/ZhuohangCui_CurriculumVitae.pdf) and if you have any other questions, please feel free to contact me. [Email](zhuohangcui@163.com).
