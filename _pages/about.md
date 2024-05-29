@@ -1,16 +1,16 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Zhuohang Cui for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Bachelor of Logistics Management in Southeast University 
-Master of Science and Engineering in Management in Yunnan University 
-My research interest includes Operations and Marketing Interface, Consumer Behavior, Innovative platforms.
-You can find my CV here: [ZhuohangCui's Curriculum Vitae](../assets/ZhuohangCui_Vitae.pdf).
+Bachelor of Logistics Management in Southeast University. 
+Master of Science and Engineering in Management in Yunnan University.
+My research interest includes Operations and Marketing Interface, Consumer Behavior, Innovative Platforms.
+You can find my CV here: [Zhuohang Cui's Curriculum Vitae](../assets/ZhuohangCui_Vitae.pdf).
 [Email](zhuohangcui@163.com) / [Github](https://github.com/zhuohangcui) / [Wechat](../images/wechat.jpg)
 
 A data-driven personal website
