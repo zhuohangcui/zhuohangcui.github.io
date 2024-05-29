@@ -7,13 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Bachelor of Logistics Management in Southeast University. 
-Master of Science and Engineering in Management in Yunnan University.
-My research interest includes Operations and Marketing Interface, Consumer Behavior, Innovative Platforms.
-You can find my CV here: [Zhuohang Cui's Curriculum Vitae](../assets/ZhuohangCui_Vitae.pdf).
-[Email](zhuohangcui@163.com) / [Github](https://github.com/zhuohangcui) / [Wechat](../images/wechat.jpg)
+Bachelor of Logistics Management in Southeast University.  
+Master of Science and Engineering in Management in Yunnan University.  
+My research interest includes Operations and Marketing Interface, Consumer Behavior, Innovative Platforms.  
+You can find my CV here: [Zhuohang Cui's Curriculum Vitae](../assets/ZhuohangCui_Vitae.pdf).[Email](zhuohangcui@163.com) / [Github](https://github.com/zhuohangcui) / [Wechat](../images/wechat.jpg)
 
-A data-driven personal website
+Scientific research
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
