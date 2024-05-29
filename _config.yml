@@ -24,7 +24,7 @@ author:
   avatar           : "identification_photo.png"
   name             : "Zhuohang Cui（崔卓航）"
   pronouns         : # example: "she/her"  
-  bio              : "Seize the day."
+  bio              : "Seize the day and do not be afraid of the light."
   location         : "China"
   employer         : "Southeast University"
   uri              : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/zhuohangcui"
+  github           : "/zhuohangcui"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
