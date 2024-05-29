@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhuohang Cui for academic personal websites"
+title: "Zhuohang Cui's academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
